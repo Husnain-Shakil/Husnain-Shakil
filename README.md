@@ -13,20 +13,20 @@ I build modern web applications with a focus on clean architecture, scalable API
 * TypeScript
 * Tailwind CSS
 * Material UI
-* Redux Toolkit
 
 **Backend**
 
 * Node.js
 * Express.js
-* NestJS
+* NextJS
 * REST APIs
-* JWT Authentication
 
 **Database**
 
 * MongoDB
 * Mongoose
+* MySQL
+* Postgresql
 * Supabase
 
 ### Currently Exploring
@@ -38,5 +38,5 @@ I build modern web applications with a focus on clean architecture, scalable API
 
 ### Connect
 
-* LinkedIn: linkedin.com/in/muhammad-husnain-shakil
+* LinkedIn: [linkedin.com/in/muhammad-husnain-shakil](www.linkedin.com/in/muhammad-husnain-shakil)
 * Email: [husnainshakil123@gmail.com](mailto:husnainshakil123@gmail.com)
