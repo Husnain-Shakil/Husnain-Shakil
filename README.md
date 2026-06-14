@@ -1,16 +1,20 @@
 # Hi, I'm Muhammad Husnain Shakil 👋
 
-Full Stack JavaScript Developer specializing in React, Next.js, Node.js, and TypeScript.
+Software Engineer focused on building scalable web platforms, backend systems, and full-stack applications using JavaScript and TypeScript.
 
-I build modern web applications with a focus on clean architecture, scalable APIs, responsive user interfaces, and maintainable code. I enjoy working across the full stack and continuously improving my skills in system design and software engineering.
+I enjoy designing maintainable software, developing robust APIs, and solving engineering challenges across the application stack. My interests include system design, software architecture, performance optimization, and building systems that remain reliable as they grow.
 
-### Tech Stack
+### Technologies
+
+**Languages**
+
+* JavaScript
+* TypeScript
 
 **Frontend**
 
 * React.js
 * Next.js
-* TypeScript
 * Tailwind CSS
 * Material UI
 
@@ -20,23 +24,24 @@ I build modern web applications with a focus on clean architecture, scalable API
 * Express.js
 * NextJS
 * REST APIs
+* Authentication & Authorization
 
-**Database**
+**Databases**
 
 * MongoDB
-* Mongoose
+* PostgreSQL
 * MySQL
-* Postgresql
 * Supabase
 
-### Currently Exploring
+### Currently Learning
 
 * System Design
-* Scalable Web Architectures
-* Advanced TypeScript Patterns
-* Performance Optimization
+* Scalable Software Architecture
+* Distributed Systems Fundamentals
+* Advanced TypeScript
+* Performance Engineering
 
 ### Connect
 
-* LinkedIn: [linkedin.com/in/muhammad-husnain-shakil](www.linkedin.com/in/muhammad-husnain-shakil)
+* LinkedIn: [linkedin.com/in/muhammad-husnain-shakil](https://www.linkedin.com/in/muhammad-husnain-shakil)
 * Email: [husnainshakil123@gmail.com](mailto:husnainshakil123@gmail.com)
